@@ -1,11 +1,11 @@
 Rare Words Finder
 ================
 
-Takes a txt file and counts the number of occurances for each word
+Takes a txt file and counts the number of occurrences for each word
 
 Why I wrote this code
 ---------------------
-I wanted to have a list of words that apprear in Isacson's biography of Steve Jobs
+I wanted to have a list of words that appear in Isacson's biography of Steve Jobs
 The sample output file for Job's bio is included in the "Sample Output" folder.
 
 More purposes for the code
