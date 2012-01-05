@@ -11,7 +11,7 @@ import csv
 import time
 import re
 
-dataset = 'Steve Jobs'
+dataset = 'mytextfile' #Change this to point to your own text file
 
 def sortedDictValues(adict,i):
 	FreqWriter = csv.writer(open('wordFreq.csv', 'w'), delimiter=',', quotechar='"')
